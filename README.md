@@ -1,4 +1,3 @@
-<iframe src="https://diata0210.github.io/diata0210/video.html" width="100%" height="500px" frameborder="0"></iframe>
 # 💫 About Me:
 a fullstack dev, AI-loving programmer who wants to be 1 pro who can code everything<br>no code no bug
 
