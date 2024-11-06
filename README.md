@@ -1,13 +1,25 @@
 ### Good Morning / Afternoon / Evening 🌞/🌜
-- I'm Diata!
-- 💻 Passionate about coding and technology.
-- 📚 Currently studying and improving in AI and web development.
-- 🌱 Always learning something new and sharing it here.
-- 🎓 Open for collaboration on exciting tech projects!
+#### **👤 Welcome! I’m Diata!**
+> _“Coding is my art, and technology is my canvas.”_
+
+- 💻 Tech Enthusiast & Code Lover**  
+  Let's explore the world of tech and innovation together!
+
+- 📚 AI & Web Development**  
+  Always learning, always evolving. The journey never stops!
+
+- 🌱 Sharing Insights & Inspirations**  
+  Join me in discovering new ideas and tech trends!
+
+- 🎓 Collaboration is Key**  
+  Let’s create something impactful together!
   
 ## 🎉 Fun Facts
-- 🔍 Love debugging as much as coding.
-- ☕️ Caffeine-dependent life form.
+- 🔍 Debugging Detective**  
+  Breaking down problems, one bug at a time!
+
+- ☕️ Coffee Connoisseur**  
+  Coffee is the code that powers me!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thaituan0210) 
