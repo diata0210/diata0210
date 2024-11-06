@@ -1,4 +1,5 @@
-## 👋 Hello, I'm Diata0210!
+### Good Morning / Afternoon / Evening 🌞/🌜
+- I'm Diata!
 - 💻 Passionate about coding and technology.
 - 📚 Currently studying and improving in AI and web development.
 - 🌱 Always learning something new and sharing it here.
@@ -71,14 +72,15 @@
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
 
-## ⏰ GitHub Commit Calendar
-![GitHub commit calendar](https://github.com/diata0210/diata0210/blob/main/assets/commit_calendar.svg)
-
 ## 📫 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-diata0210@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diata0210@gmail.com)](mailto:diata0210@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🎉 Fun GIF
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=diata0210&icon=0&color=0)](https://visitcount.itsvg.in)
 
