@@ -6,8 +6,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thaituan0210) 
-![Profile Views](https://komarev.com/ghpvc/?username=diata0210&style=for-the-badge&color=brightgreen)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
 
 ## 💻 Tech Stack
 
@@ -62,6 +60,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=diata0210&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
+## 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
