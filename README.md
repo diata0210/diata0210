@@ -3,11 +3,18 @@
 - 📚 Currently studying and improving in AI and web development.
 - 🌱 Always learning something new and sharing it here.
 - 🎓 Open for collaboration on exciting tech projects!
+  
+## 🎉 Fun Facts
+- 🔍 Love debugging as much as coding.
+- ☕️ Caffeine-dependent life form.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thaituan0210) 
 
 ## 💻 Tech Stack
+
+## 📊 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&langs_count=10&theme=radical&layout=compact)
 
 ### 🛠️ Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -64,9 +71,14 @@
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
 
+## ⏰ GitHub Commit Calendar
+![GitHub commit calendar](https://github.com/diata0210/diata0210/blob/main/assets/commit_calendar.svg)
+
+## 📫 Contact Me
+[![Gmail Badge](https://img.shields.io/badge/-diata0210@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diata0210@gmail.com)](mailto:diata0210@gmail.com)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=diata0210&icon=0&color=0)](https://visitcount.itsvg.in)
 
