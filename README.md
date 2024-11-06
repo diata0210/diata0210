@@ -10,8 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diata0210&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
-![trophy](https://github-profile-trophy.vercel.app/?username=diata0210)
+![](https://github-profile-trophy.vercel.app/?username=diata0210&theme=gruvbox&no-frame=true&no-bg=true&column=3&margin-w=5&margin-h=5&title=Followers,Stars,Forks)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
