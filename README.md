@@ -17,7 +17,8 @@
 ## 📊 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&langs_count=10&theme=radical&layout=compact)
 
-### 🛠️ Programming Languages
+## 🛠️ Programming Languages
+
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" height="40" alt="C"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="40" height="40" alt="C#"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40" alt="C++"/>
