@@ -2,16 +2,16 @@
 #### **👤 Welcome! I’m Diata!**
 > _“Coding is my art, and technology is my canvas.”_
 
-- 💻 Tech Enthusiast & Code Lover**  
-- 📚 AI & Web Development**  
-- 🌱 Sharing Insights & Inspirations**  
-- 🎓 Collaboration is Key**  
+- 💻 Tech Enthusiast & Code Lover
+- 📚 AI & Web Development
+- 🌱 Sharing Insights & Inspirations
+- 🎓 Collaboration is Key
 
 ## 🎉 Fun Facts
-- 🔍 Debugging Detective**  
+- 🔍 Debugging Detective  
   Breaking down problems, one bug at a time!
 
-- ☕️ Coffee Connoisseur**  
+- ☕️ Coffee Connoisseur  
   Coffee is the code that powers me!
 
 ## 🌐 Socials:
