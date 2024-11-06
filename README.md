@@ -11,7 +11,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=diata0210&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
-![trophy](https://github-profile-trophy.vercel.app/?username=)
+![trophy](https://github-profile-trophy.vercel.app/?username=diata0210)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
