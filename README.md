@@ -84,7 +84,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
 
 ## 📫 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/-diata0210@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:thaituandang0210@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-thaituandang0210@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:thaituandang0210@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
