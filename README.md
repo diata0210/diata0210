@@ -18,48 +18,47 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&langs_count=10&theme=radical&layout=compact)
 
 ### 🛠️ Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" height="40" alt="C"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="40" height="40" alt="C#"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40" alt="C++"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40" alt="Java"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40" alt="Python"/>
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" alt="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt="TypeScript"/>
+<img src="https://img.icons8.com/officel/40/react.png" width="40" height="40" alt="React"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40" height="40" alt="Vue.js"/>
+<img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40" height="40" alt="Next.js"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40" alt="Redux"/>
+<img src="https://img.icons8.com/color/48/000000/sass-avatar.png" width="40" height="40" alt="SASS"/>
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="40" height="40" alt="TailwindCSS"/>
+<img src="https://img.icons8.com/ios/50/000000/jquery.png" width="40" height="40" alt="jQuery"/>
 
 ### ☁️ Cloud & Backend Services
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40" alt="MySQL"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40" alt="Microsoft SQL Server"/>
 
 ### 🧰 Tools & Utilities
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" alt="Git"/>
+<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40" alt="Postman"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40" alt="Linux"/>
+<img src="https://img.icons8.com/color/48/000000/windows10.png" width="40" height="40" alt="Windows Terminal"/>
 
 ### 🛠️ Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+<img src="https://img.icons8.com/ios-filled/50/4a90e2/net-framework.png" width="40" height="40" alt=".NET"/>
+<img src="https://img.icons8.com/color/48/000000/yarn.png" width="40" height="40" alt="Yarn"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/json.png" width="40" height="40" alt="JWT"/>
 
 ### 🎨 Design & Productivity
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40" height="40" alt="Figma"/>
+<img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" alt="Canva"/>
+<img src="https://img.icons8.com/color/48/000000/trello.png" width="40" height="40" alt="Trello"/>
+<img src="https://img.icons8.com/color/48/000000/jira.png" width="40" height="40" alt="Jira"/>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=diata0210&show_icons=true&theme=radical&hide_border=true)
@@ -73,7 +72,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
 
 ## 📫 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/-diata0210@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diata0210@gmail.com)](mailto:diata0210@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-diata0210@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:diata0210@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
