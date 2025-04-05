@@ -32,16 +32,12 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
-
 ### ☁️ Backend & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
----
 
 ### 🧰 Tools & Libraries
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
@@ -52,20 +48,15 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 ### 🎨 Productivity & Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
 
 ### 🧠 Concepts & Architecture
 ![System Design](https://img.shields.io/badge/System_Design-444444?style=for-the-badge&logo=databricks&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=abstract&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-7952B3?style=for-the-badge&logo=pattern&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge&logo=microgenetics&logoColor=white)
-
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=diata0210&show_icons=true&theme=radical&hide_border=true)
