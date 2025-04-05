@@ -63,7 +63,7 @@
 ![System Design](https://img.shields.io/badge/System_Design-444444?style=for-the-badge&logo=databricks&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=abstract&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-7952B3?style=for-the-badge&logo=pattern&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge&logo=microgenetics&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=diata0210&show_icons=true&theme=radical&hide_border=true)
