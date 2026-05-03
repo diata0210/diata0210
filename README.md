@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Diata&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Coder%20%E2%80%A2%20Dreamer&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Diata&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Infra%20%E2%80%A2%20Builder&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Aspiring+Tech+Entrepreneur+%F0%9F%9A%80;AI+%26+SaaS+Enthusiast+%F0%9F%A4%96;Always+Shipping%2C+Always+Learning+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+%26+Infra+Developer+%E2%9A%99%EF%B8%8F;Aspiring+Tech+Entrepreneur+%F0%9F%9A%80;Scaling+Systems+%26+Shipping+Products+%F0%9F%93%88;Always+Building%2C+Always+Learning+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,11 @@
 
 ```typescript
 const diata = {
-  role: "Developer & Indie Hacker",
+  role: "Backend & Infrastructure Developer",
   location: "Vietnam 🇻🇳",
-  currentlyBuilding: ["AI-powered tools", "SaaS experiments"],
-  passions: ["Tech", "Startups", "Building cool stuff"],
-  philosophy: "Ship fast. Learn faster. Repeat.",
-  
-  funFact: "Powered by ☕ and an unhealthy obsession with clean code"
+  currentlyBuilding: ["Scalable APIs", "Cloud-native systems", "SaaS experiments"],
+  passions: ["Distributed systems", "Startups", "Clean architecture"],
+  philosophy: "Build it right. Scale it smart. Ship it fast.",
 };
 ```
 
@@ -31,13 +29,15 @@ const diata = {
 <td width="50%" valign="top">
 
 ### 🔭 Currently Building
-- 🤖 AI-powered side projects
+- ⚙️ Robust backend systems & APIs
+- ☁️ Cloud infrastructure on AWS
 - 💼 SaaS MVPs (one ship at a time)
-- 🌐 Web apps that solve real problems
+- 🤖 AI-powered backend services
 
 ### 🌱 Currently Learning
-- LangChain & AI agents
-- System design at scale  
+- Distributed systems at scale
+- Kubernetes & service mesh  
+- Event-driven architecture
 - Product-led growth strategies
 
 </td>
@@ -63,23 +63,45 @@ const diata = {
 
 <div align="center">
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Cloud**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Backend & Frameworks**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Architecture & Concepts**  
+![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge&logo=microgenetics&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-444444?style=for-the-badge&logo=databricks&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Tools I Live In**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -92,9 +114,9 @@ const diata = {
 <!-- Replace these with your actual projects -->
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **🤖 Project Name** | One-liner about what it does and why it's cool | Next.js, OpenAI | [Demo](#) · [Code](#) |
-| **💼 Project Name** | Solving X problem for Y users | React, Node.js | [Demo](#) · [Code](#) |
-| **🚀 Project Name** | The thing I'm most proud of | TypeScript, AWS | [Demo](#) · [Code](#) |
+| **⚙️ Project Name** | Scalable backend handling X requests/day | NestJS, PostgreSQL, Redis | [Demo](#) · [Code](#) |
+| **☁️ Project Name** | Cloud-native microservices architecture | AWS, Docker, K8s | [Demo](#) · [Code](#) |
+| **🚀 Project Name** | The thing I'm most proud of | Python, FastAPI, AWS | [Demo](#) · [Code](#) |
 
 </div>
 
@@ -149,7 +171,7 @@ const diata = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaituandang0210@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diata0210)
 
-**💬 Got an idea? Want to build something? Need a technical co-founder?**  
+**💬 Got an idea? Want to build something? Need a backend/infra co-founder?**  
 **Let's grab a virtual coffee ☕**
 
 </div>
