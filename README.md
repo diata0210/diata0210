@@ -1,79 +1,175 @@
-### Good Morning / Afternoon / Evening 🌞/🌜
-#### **👤 Welcome! I’m Diata!**
-> _“Coding is my art, and technology is my canvas.”_
+<div align="center">
 
-- 💻 Tech Enthusiast & Code Lover
-- 📚 AI & Web Development
-- 🌱 Sharing Insights & Inspirations
-- 🎓 Collaboration is Key
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Diata&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Coder%20%E2%80%A2%20Dreamer&descAlignY=58&descAlign=50)
 
-## 🎉 Fun Facts
-- 🔍 Debugging Detective  
-  Breaking down problems, one bug at a time!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Aspiring+Tech+Entrepreneur+%F0%9F%9A%80;AI+%26+SaaS+Enthusiast+%F0%9F%A4%96;Always+Shipping%2C+Always+Learning+%F0%9F%93%88)](https://git.io/typing-svg)
 
-- ☕️ Coffee Connoisseur  
-  Coffee is the code that powers me!
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thaituan0210) 
-
-## 💻 Tech Stack
-
-## 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&langs_count=20&theme=radical&layout=compact)
-
-### 🛠️ Programming & Web Development
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### ☁️ Backend & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Tools & Libraries
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-
-### 🎨 Productivity & Design
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-### 🧠 Concepts & Architecture
-![System Design](https://img.shields.io/badge/System_Design-444444?style=for-the-badge&logo=databricks&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=abstract&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-7952B3?style=for-the-badge&logo=pattern&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge&logo=microgenetics&logoColor=white)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=diata0210&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=diata0210&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&layout=compact&theme=radical&hide_border=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diata0210&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
-
-## 📫 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/-thaituandang0210@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:thaituandang0210@gmail.com)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🎉 Fun GIF
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=diata0210&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```typescript
+const diata = {
+  role: "Full-stack Developer & Indie Hacker",
+  location: "Vietnam 🇻🇳",
+  currentlyBuilding: ["AI-powered tools", "SaaS experiments"],
+  passions: ["Tech", "Startups", "Building cool stuff"],
+  philosophy: "Ship fast. Learn faster. Repeat.",
+  
+  goals2026: {
+    products: "Ship 3 products to production 🚀",
+    revenue: "Reach first $1K MRR 💰",
+    growth: "Master AI engineering & system design 📚",
+    network: "Connect with 100 builders worldwide 🌍"
+  },
+  
+  funFact: "Powered by ☕ and an unhealthy obsession with clean code"
+};
+```
+
+---
+
+## 🚀 What I'm Up To
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently Building
+- 🤖 AI-powered side projects
+- 💼 SaaS MVPs (one ship at a time)
+- 🌐 Web apps that solve real problems
+
+### 🌱 Currently Learning
+- LangChain & AI agents
+- System design at scale  
+- Product-led growth strategies
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Looking For
+- 🤝 Co-founder opportunities
+- 💻 Interesting freelance projects
+- 🚀 Startup collaborations
+- ☕ Coffee chats with fellow builders
+
+### 📫 How to Reach Me
+- 📧 Email: **thaituandang0210@gmail.com**
+- 💬 DMs are open — let's build something!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Arsenal
+
+<div align="center">
+
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend & Cloud**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools I Live In**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<!-- Replace these with your actual projects -->
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **🤖 Project Name** | One-liner about what it does and why it's cool | Next.js, OpenAI | [Demo](#) · [Code](#) |
+| **💼 Project Name** | Solving X problem for Y users | React, Node.js | [Demo](#) · [Code](#) |
+| **🚀 Project Name** | The thing I'm most proud of | TypeScript, AWS | [Demo](#) · [Code](#) |
+
+</div>
+
+> 💡 **Want to collaborate?** Check out my [pinned repos](https://github.com/diata0210?tab=repositories) or shoot me an email!
+
+---
+
+## 📊 The Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diata0210&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diata0210&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+
+</div>
+
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  
+![Snake animation](https://github.com/diata0210/diata0210/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=diata0210&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
+
+</div>
+
+---
+
+## 💭 Builder's Mindset
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thaituan0210)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaituandang0210@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diata0210)
+
+**💬 Got an idea? Want to build something? Need a technical co-founder?**  
+**Let's grab a virtual coffee ☕**
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=diata0210&style=for-the-badge&color=00d9ff)
+![Followers](https://img.shields.io/github/followers/diata0210?style=for-the-badge&color=00d9ff)
+
+> *"The best way to predict the future is to build it."* — Alan Kay
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+
+</div>
