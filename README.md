@@ -12,18 +12,11 @@
 
 ```typescript
 const diata = {
-  role: "Full-stack Developer & Indie Hacker",
+  role: "Developer & Indie Hacker",
   location: "Vietnam 🇻🇳",
   currentlyBuilding: ["AI-powered tools", "SaaS experiments"],
   passions: ["Tech", "Startups", "Building cool stuff"],
   philosophy: "Ship fast. Learn faster. Repeat.",
-  
-  goals2026: {
-    products: "Ship 3 products to production 🚀",
-    revenue: "Reach first $1K MRR 💰",
-    growth: "Master AI engineering & system design 📚",
-    network: "Connect with 100 builders worldwide 🌍"
-  },
   
   funFact: "Powered by ☕ and an unhealthy obsession with clean code"
 };
