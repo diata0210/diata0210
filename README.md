@@ -16,7 +16,7 @@ const diata = {
   location: "Vietnam 🇻🇳",
   currentlyBuilding: ["Scalable APIs", "Cloud-native systems", "SaaS experiments"],
   passions: ["Distributed systems", "Startups", "Clean architecture"],
-  philosophy: "Build it right. Scale it smart. Ship it fast.",
+  philosophy: "Build it right. Scale it smart. Ship it fast."
 };
 ```
 
@@ -135,11 +135,11 @@ const diata = {
 
 </div>
 
-### 🐍 Watch My Contributions Get Eaten
+### 📈 Contribution Activity
 
 <div align="center">
   
-![Snake animation](https://github.com/diata0210/diata0210/blob/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Journey)
 
 </div>
 
